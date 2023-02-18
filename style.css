@@ -1,0 +1,80 @@
+@media screen and (max-width: 576px) {
+  .copyright {
+    font-size: 12px;
+    text-align: center;
+  }
+  .medsos a {
+    font-size: 10px;
+  }
+  .gambar img {
+    width: 300px;
+    height: 300px;
+  }
+  .lottie {
+    height: 300px;
+  }
+  .lottie-jasa {
+    height: 350px;
+  }
+  /* .titletext {
+    font-size: 17px;
+  } */
+  .textcontent-jasa {
+    margin-top: -50px;
+    font-size: 15px;
+    /* line-height: 0.2cm; */
+    /* display: flex;
+    justify-content: start;
+    align-items: center; */
+  }
+  select option {
+    font-size: 10px;
+  }
+  /* .textcontent-jasa h5 {
+    margin-top: -60px;
+    font-size: 15px;
+    line-height: 0.8cm;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  } */
+  .textcontent-contact h5 {
+    margin-top: -60px;
+    font-size: 15px;
+    line-height: 0.8cm;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+
+  .textcontent-about {
+    /* margin-left: 7px; */
+    /* margin-right: 7px; */
+    font-size: 9px;
+  }
+  /* .about {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 40px;
+  } */
+  .textcontent-about .about {
+    max-width: 105px;
+  }
+
+  .textcontent-about h5 {
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  .titletext {
+    font-size: 17px;
+  }
+  .textcontent h5 {
+    font-size: 15px;
+    margin-left: 20px;
+  }
+}
+.medsos a {
+  margin-left: 20px;
+}
